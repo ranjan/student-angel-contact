@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "students-angel-contacts"
-  s.version = "1.2.18"
+  s.version = "1.2.19"
   s.platform = Gem::Platform::RUBY
   s.authors = ["Lucas Carlson","Brad Imbierowicz", "Wong Liang Zan", "Mateusz Konikowski", "Laurynas Butkus"]
   s.email = "zan@liangzan.net"
