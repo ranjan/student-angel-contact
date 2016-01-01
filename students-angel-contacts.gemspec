@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "json", "~> 1.6.5"
   s.add_dependency 'gdata_19', '~> 1.1.3'
-  s.add_dependency 'nokogiri', '~> 1.4.7'
+  s.add_dependency 'nokogiri', '~> 2.15.0'
 
   s.files = Dir.glob("lib/**/*") + Dir.glob("examples/**/*") + %w(LICENSE README.rdoc Rakefile)
   s.require_path = "lib"
